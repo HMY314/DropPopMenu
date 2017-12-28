@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:clickable="false"
-            android:singleLine="true"
+            android:maxLines="1"
             android:text="文字"
             android:textColor="@android:color/white"
             android:textSize="@dimen/drop_pop_menu_text_size" />
